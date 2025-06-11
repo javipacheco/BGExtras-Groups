@@ -18,5 +18,7 @@ If you want to submit a group to appear here, either new or a translation in you
 
 ## Boardgames
 
+Download the file from here and import the file in the app
+
 - *Aeon's End*: [Spanish](BGExtras_Group_Aeon'sEnd.zip)
-- *Root*: [Spanish](BGExtras_Group_Root.json)
+- *Root*: [Spanish](BGExtras_Group_Root.zip)
